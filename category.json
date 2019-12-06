@@ -1,0 +1,71 @@
+{
+  "category": [
+    {
+      "key": ["최저가", "미니샵"],
+      "value": "정답 > %minisum%"
+    }, {
+      "key": ["최저가", "오픈마켓", "판매자명"],
+      "value": "정답 > %opencomp% / %openprice% / %openseller%"
+    }, {
+      "key": ["최저가", "오픈마켓", "합"],
+      "value": "$%title% : %openprice%\n합계 : %opensum%"
+    }, {
+      "key": ["최저가", "오픈마켓"],
+      "value": "$%title% : %openprice%"
+    }, {
+      "key": ["최저가", "금액", "임시로 막아둡니다"],
+      "value": "$%title% : %digitsum%"
+    }, {
+      "key": ["최저가", "현금", "합산"],
+      "value": "$%title% : %cashminprice%"
+    }, {
+      "key": ["최저가", "현금"],
+      "value": "$%title% : %cashprice%"
+    }, {
+      "key": ["최저가", "평균"],
+      "value": "$%title% : %minprice%\n평균 : %minavg%"
+    }, {
+      "key": ["최저가", "합"],
+      "value": "$%title% : %minprice%\n합계 : %minsum%"
+    }, {
+      "key": ["최저가", "더하여"],
+      "value": "$%title% : %minprice%\n합계 : %minsum%"
+    }, {
+      "key": ["최저가", "자리"],
+      "value": "$%title% : %digit#%"
+    }, {
+      "key": ["최저가", "업체명"],
+      "value": "정답 > %minprice% / %mincomp%"
+    }, {
+      "key": ["최저가"],
+      "value": "$%title% : %minprice%"
+    }, {
+      "key": ["마켓명"],
+      "value": "$%title% : %opencomp%"
+    }, {
+      "key": ["제품명", "개수"],
+      "value": "정답 > %mosttitle% = %mostcount%개"
+    }, {
+      "key": ["제품명", "갯수"],
+      "value": "정답 > %mosttitle% = %mostcount%개"
+    }, {
+      "key": ["개수"],
+      "value": "정답 > %correctcount%개"
+    }, {
+      "key": ["총 몇"],
+      "value": "정답 > %correctcount%개"
+    }, {
+      "key": ["제품명", "번호"],
+      "value": "정답 > %mostnum% / %mosttitle%"
+    }, {
+      "key": ["많이 나오는 제품"],
+      "value": "정답 > %mosttitle%"
+    }, {
+      "key": ["마린1"],
+      "value": "정답 > %waycos%"
+    }, {
+      "key": [" "],
+      "value": "정답 > %correct%"
+    }
+  ]
+}
