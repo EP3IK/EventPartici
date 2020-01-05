@@ -31,6 +31,9 @@
       "key": ["최저가", "더하여"],
       "value": "$%title% : %minprice%\n합계 : %minsum%"
     }, {
+      "key": ["최저가", "앞자리", "더해주세요"],
+      "value": "$정답 > %digit1%"
+    }, {
       "key": ["최저가", "더해주세요"],
       "value": "정답 > %minsum%"
     }, {
