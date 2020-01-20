@@ -61,6 +61,9 @@
       "key": ["총 몇"],
       "value": "정답 > %correctcount%개"
     }, {
+      "key": ["몇 개"],
+      "value": "정답 > %correctcount%개"
+    }, {
       "key": ["제품명", "번호"],
       "value": "정답 > %mostnum% / %mosttitle%"
     }, {
